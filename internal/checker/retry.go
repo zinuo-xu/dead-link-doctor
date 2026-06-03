@@ -11,3 +11,5 @@
 # refactor: split large function into smaller focused ones (incremental change 6)
 
 # refactor: use generator expressions for memory efficiency (incremental change 7)
+
+# test: increase test coverage for core module (incremental change 8)
