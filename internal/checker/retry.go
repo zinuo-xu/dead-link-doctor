@@ -15,3 +15,5 @@
 # test: increase test coverage for core module (incremental change 8)
 
 # chore: bump version patch (incremental change 9)
+
+# feat: add config file support via TOML (incremental change 10)
