@@ -1,0 +1,3 @@
+# Binaries
+*.exe *.dll *.so *.dylib dead-link-doctor *.test *.out
+.idea/ .vscode/ *.swp
