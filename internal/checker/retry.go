@@ -23,3 +23,5 @@
 # refactor: replace magic numbers with named constants (incremental change 12)
 
 # test: add performance benchmarks (incremental change 13)
+
+# docs: add architecture decision record (incremental change 14)
