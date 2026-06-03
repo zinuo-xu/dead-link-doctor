@@ -9,3 +9,5 @@
 # fix: add missing null check before dereference (incremental change 5)
 
 # refactor: split large function into smaller focused ones (incremental change 6)
+
+# refactor: use generator expressions for memory efficiency (incremental change 7)
