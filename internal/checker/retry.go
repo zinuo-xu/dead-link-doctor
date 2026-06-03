@@ -21,3 +21,5 @@
 # test: fix flaky test with proper cleanup (incremental change 11)
 
 # refactor: replace magic numbers with named constants (incremental change 12)
+
+# test: add performance benchmarks (incremental change 13)
