@@ -17,3 +17,5 @@
 # chore: bump version patch (incremental change 9)
 
 # feat: add config file support via TOML (incremental change 10)
+
+# test: fix flaky test with proper cleanup (incremental change 11)
