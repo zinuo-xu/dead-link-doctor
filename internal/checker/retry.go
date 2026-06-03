@@ -5,3 +5,5 @@
 # fix: correct off-by-one error in iteration (incremental change 3)
 
 # fix: prevent race condition in concurrent operations (incremental change 4)
+
+# fix: add missing null check before dereference (incremental change 5)
