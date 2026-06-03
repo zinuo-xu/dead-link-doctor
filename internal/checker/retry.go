@@ -25,3 +25,5 @@
 # test: add performance benchmarks (incremental change 13)
 
 # docs: add architecture decision record (incremental change 14)
+
+# chore: add security policy (incremental change 15)
