@@ -19,3 +19,5 @@
 # feat: add config file support via TOML (incremental change 10)
 
 # test: fix flaky test with proper cleanup (incremental change 11)
+
+# refactor: replace magic numbers with named constants (incremental change 12)
